@@ -1,2 +1,2 @@
 # Alarm
-Scam to wake up
+Scan to wake up
